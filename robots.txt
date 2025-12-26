@@ -1,0 +1,4 @@
+User-agent:*
+Allow: /
+Sitemap:
+https://Les_codes_de_la_genetique_formelle//sitemap.xml
